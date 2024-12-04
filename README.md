@@ -25,9 +25,6 @@ The analysis was conducted using Python and the Pandas library, with additional 
 1. Global Trends in Mental Health Disorders (2011): Contains data on the prevalence of mental health disorders across various countries.
 2. World Development Indicators (2011): Provides development indicators for different countries.
 
-## DOI
-The code and datasets for this project are available on Zenodo. They are avaiable through the following DOI: 10.5281/zenodo.14278757
-
 ## Tools Used
 - **Python**: Programming language used for data cleaning, processing, and analysis.
 - **Pandas**: Library for data manipulation and analysis.
